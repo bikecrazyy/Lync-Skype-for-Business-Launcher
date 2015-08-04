@@ -11,7 +11,8 @@ Microsoft send out a update for Lync so that Skype is intergrated with Lync but 
 This application with edit the registry where Skype for Business setting is disbaled and enable it. After the edit is complete it will start lync up. 
 
 **Lastest Download**
-[Download the latest release](https://github.com/bikecrazyy/Lync-Skype-for-Business-Launcher/raw/master/Lync%20-%20Skype%20for%20Business%20Launcher.exe)
+
+[Download](https://github.com/bikecrazyy/Lync-Skype-for-Business-Launcher/raw/master/Lync%20-%20Skype%20for%20Business%20Launcher.exe)
 
 
 **Setup**
